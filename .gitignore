@@ -1,0 +1,4 @@
+venv/
+logs/
+gitlab_gcr_gke_project.egg-info
+gcp-key.json
