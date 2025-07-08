@@ -1,6 +1,4 @@
-Excellent\! Another MLOps project focusing on the Iris dataset, this time with GitLab CI/CD for deployment to GKE. This really showcases your versatility with different CI/CD platforms.
-
-Here's the `README.md` file for your Iris classification project, tailored to the GitLab CI/CD and GKE deployment:
+🔗 👉 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=U-ufsR2yDEQ&list=PLe-YIIlt-fbOSpBoaPA6TyB3S25WSf5sL&index=5&ab_channel=Jatin)**
 
 ```markdown
 # 🌸 Iris Species Classification: GitLab CI/CD to GKE MLOps Pipeline
@@ -185,7 +183,7 @@ Developing this end-to-end MLOps pipeline presented several interesting challeng
 
 ## 🤝 Credits
 
-* [Your Name/Organization Here]
+* [Jatin Yadav]
 * [Scikit-learn](https://scikit-learn.org/stable/)
 * [Flask](https://flask.palletsprojects.com/)
 * [Docker](https://www.docker.com/)
@@ -197,12 +195,12 @@ Developing this end-to-end MLOps pipeline presented several interesting challeng
 * [Joblib](https://joblib.readthedocs.io/en/latest/)
 
 ---
-
-## 🙋‍♂️ Let's Connect
-
-* **💼 LinkedIn:** [Your LinkedIn Profile URL]
-* **📦 GitLab/GitHub:** [Your GitLab/GitHub Profile URL]
-* **📬 Email:** your@email.com
-
 Made with ❤️ by an AI enthusiast who transforms ML, NLP, DL, GenAI, and MLOps concepts into practical, impactful solutions.
 ```
+## 🙋‍♂️ Let's Connect
+
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [+91-7340386035](tel:+917340386035)
+* **🎥 YouTube:** [Checkout the working projects](https://www.youtube.com/@jatinML/playlists)
